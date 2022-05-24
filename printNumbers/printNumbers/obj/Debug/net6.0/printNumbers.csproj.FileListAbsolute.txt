@@ -1,0 +1,15 @@
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.csproj.AssemblyReference.cache
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.AssemblyInfoInputs.cache
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.AssemblyInfo.cs
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\bin\Debug\net6.0\printNumbers.exe
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\bin\Debug\net6.0\printNumbers.deps.json
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\bin\Debug\net6.0\printNumbers.runtimeconfig.json
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\bin\Debug\net6.0\printNumbers.dll
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\bin\Debug\net6.0\printNumbers.pdb
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.dll
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\refint\printNumbers.dll
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.pdb
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\printNumbers.genruntimeconfig.cache
+C:\Users\Atleast di sumabog\source\repos\printNumbers\printNumbers\obj\Debug\net6.0\ref\printNumbers.dll
